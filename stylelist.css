@@ -1,0 +1,44 @@
+html,body{
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+#tieude{
+    position: absolute;
+    margin-top: 10%;
+    border: 1px solid red;
+    height: 12%;
+}
+img{
+    position: relative;
+}
+#container{
+    position: relative;
+}
+#container1{
+    left: 500px;
+    position:absolute;
+}
+#container1,.con{
+    display: inline-block; 
+    /* position: absolute; */
+    margin:20px;
+    text-decoration: none;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    font-weight: bold;
+}
+#container1,.con:hover{
+    color:aqua;
+}
+/* #body{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+} */
+
+
